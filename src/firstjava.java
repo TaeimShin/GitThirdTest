@@ -7,6 +7,7 @@ public class firstjava
 		System.out.println("세번째시도");
 		System.out.println("세번째시도");
 
+		System.out.println("집에서 작업2");
 	}
 
 }
